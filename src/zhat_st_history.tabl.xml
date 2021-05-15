@@ -4,9 +4,7 @@
   <asx:values>
    <DD02V>
     <TABNAME>ZHAT_ST_HISTORY</TABNAME>
-    <DDLANGUAGE>8</DDLANGUAGE>
     <TABCLASS>INTTAB</TABCLASS>
-    <DDTEXT>history</DDTEXT>
    </DD02V>
    <DD03P_TABLE>
     <DD03P>
