@@ -4,6 +4,7 @@
   <asx:values>
    <DD40V>
     <TYPENAME>ZCHAT_TT_DATES</TYPENAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <ROWTYPE>DATUM</ROWTYPE>
     <ROWKIND>E</ROWKIND>
     <DATATYPE>DATS</DATATYPE>
@@ -11,6 +12,7 @@
     <ACCESSMODE>T</ACCESSMODE>
     <KEYDEF>D</KEYDEF>
     <KEYKIND>N</KEYKIND>
+    <DDTEXT>Chat Dates</DDTEXT>
    </DD40V>
   </asx:values>
  </asx:abap>
