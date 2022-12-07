@@ -61,7 +61,7 @@ ENDCLASS.
 
 
 
-CLASS ZCL_CHAT IMPLEMENTATION.
+CLASS zcl_chat IMPLEMENTATION.
 
 
   METHOD check_acces.
@@ -567,7 +567,7 @@ CLASS ZCL_CHAT IMPLEMENTATION.
       where login = ms_data-login.
 
       FIELD-SYMBOLS
-                     : <fs_hist> TYPE ZHAT_ST_HISTORY
+                     : <fs_hist> TYPE ZCHAT_ST_HISTORY
                      .
 
 
