@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_CHAT</CLSNAME>
-    <VERSION>1</VERSION>
-    <LANGU>8</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>Samtime2.0</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
@@ -14,13 +13,11 @@
    </VSEOCLASS>
    <DESCRIPTIONS>
     <SEOCOMPOTX>
-     <CLSNAME>ZCL_CHAT</CLSNAME>
      <CMPNAME>MS_DATA</CMPNAME>
      <LANGU>8</LANGU>
      <DESCRIPT>request</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
-     <CLSNAME>ZCL_CHAT</CLSNAME>
      <CMPNAME>MS_RESPONCE</CMPNAME>
      <LANGU>8</LANGU>
      <DESCRIPT>responce</DESCRIPT>

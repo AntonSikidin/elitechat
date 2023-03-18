@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD02V>
     <TABNAME>ZCHAT_TMP_LIKE</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <TABCLASS>TRANSP</TABCLASS>
     <CLIDEP>X</CLIDEP>
+    <DDTEXT>Chat Temp</DDTEXT>
     <MAINFLAG>X</MAINFLAG>
     <CONTFLAG>C</CONTFLAG>
+    <EXCLASS>3</EXCLASS>
    </DD02V>
    <DD09L>
     <TABNAME>ZCHAT_TMP_LIKE</TABNAME>
@@ -18,9 +21,7 @@
    </DD09L>
    <DD03P_TABLE>
     <DD03P>
-     <TABNAME>ZCHAT_TMP_LIKE</TABNAME>
      <FIELDNAME>CLNT</FIELDNAME>
-     <POSITION>0001</POSITION>
      <KEYFLAG>X</KEYFLAG>
      <ROLLNAME>MANDT</ROLLNAME>
      <ADMINFIELD>0</ADMINFIELD>
@@ -28,9 +29,7 @@
      <COMPTYPE>E</COMPTYPE>
     </DD03P>
     <DD03P>
-     <TABNAME>ZCHAT_TMP_LIKE</TABNAME>
      <FIELDNAME>LOGIN</FIELDNAME>
-     <POSITION>0002</POSITION>
      <KEYFLAG>X</KEYFLAG>
      <ROLLNAME>CHAR20</ROLLNAME>
      <ADMINFIELD>0</ADMINFIELD>
@@ -38,9 +37,7 @@
      <COMPTYPE>E</COMPTYPE>
     </DD03P>
     <DD03P>
-     <TABNAME>ZCHAT_TMP_LIKE</TABNAME>
      <FIELDNAME>MESSAGE</FIELDNAME>
-     <POSITION>0003</POSITION>
      <KEYFLAG>X</KEYFLAG>
      <ROLLNAME>GUID</ROLLNAME>
      <ADMINFIELD>0</ADMINFIELD>

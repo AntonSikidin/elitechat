@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
-   <URL>/usib/zchat/</URL>
+   <URL>/sap/zchat/</URL>
    <ICFSERVICE>
     <ICF_NAME>ZCHAT</ICF_NAME>
     <PROTSEC>S</PROTSEC>
-    <HTTPCDE500>2</HTTPCDE500>
-    <HTTPCDE401>2</HTTPCDE401>
-    <ICFBITMAP>00000000</ICFBITMAP>
-    <HTTPCDELPAG>2</HTTPCDELPAG>
-    <HTTPCDENFPAG>2</HTTPCDENFPAG>
     <ORIG_NAME>zchat</ORIG_NAME>
    </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>ZCHAT</ICF_NAME>
+    <ICF_LANGU>E</ICF_LANGU>
+    <ICF_DOCU>Zchat – ABAP-based Instant Messaging</ICF_DOCU>
+   </ICFDOCU>
    <ICFHANDLER_TABLE>
     <ICFHANDLER>
      <ICF_NAME>ZCHAT</ICF_NAME>
